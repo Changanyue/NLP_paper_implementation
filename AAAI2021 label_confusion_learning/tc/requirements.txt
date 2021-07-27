@@ -1,0 +1,4 @@
+boto3>=2.48.0
+numpy>=1.13.3
+sklearn
+tqdm
