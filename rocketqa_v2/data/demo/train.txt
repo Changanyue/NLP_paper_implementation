@@ -1,0 +1,14 @@
+{"source": "求", "target": "求秋", "labelA": "1"}
+{"source": "晚上睡觉", "target": "孕妇", "labelA": "0"}
+{"source": "学日语软件手机上的", "target": "手机学日语的软件", "labelA": "1"}
+{"source": "打印", "target": "如", "labelA": "0"}
+{"source": "侠盗飞车", "target": "侠盗飞", "labelA": "1"}
+{"source": "什么花一年四季都开", "target": "什么花一年四季都是开的", "labelA": "1"}
+{"source": "看图猜一电影名", "target": "看图猜电影！", "labelA": "1"}
+{"source": "这上面写的是什么？", "target": "胃上面是什么", "labelA": "0"}
+{"source": "建议您", "target": "可以", "labelA": "0"}
+{"source": "小草有什么", "target": "象征什么", "labelA": "1"}
+{"source": "校验失败了，", "target": "您好，您还是访客状态呢", "labelA": "0"}
+{"source": "尼玛什么意思", "target": "尼玛啊是什么意思？", "labelA": "0"}
+{"source": "自找苦吃的地方是哪儿？", "target": "自找苦吃的地方是哪儿", "labelA": "1"}
+{"source": "尾号4位多少", "target": "尾号是多少后4位", "labelA": "1"}
